@@ -2,4 +2,4 @@
 
 
 ## Aleksandr Hlazunov
-[DEMO](https://shurkodr.github.io/test/test_login)
+[DEMO](https://shurkodr.github.io/test_login/)
