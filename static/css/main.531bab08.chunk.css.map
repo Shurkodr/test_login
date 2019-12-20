@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,aACE,YAAa,CACb,iBAAkB,CAClB,SAAU,CACV,QACF","file":"main.531bab08.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.submit-form {\n  display: none;\n  position: absolute;\n  top: 100px;\n  left: 50%;\n}\n"]}

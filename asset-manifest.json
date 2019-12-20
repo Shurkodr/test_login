@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/test_login/static/css/main.531bab08.chunk.css",
+    "main.js": "/test_login/static/js/main.a5a14de6.chunk.js",
+    "main.js.map": "/test_login/static/js/main.a5a14de6.chunk.js.map",
+    "runtime-main.js": "/test_login/static/js/runtime-main.281a79f6.js",
+    "runtime-main.js.map": "/test_login/static/js/runtime-main.281a79f6.js.map",
+    "static/css/2.472283b6.chunk.css": "/test_login/static/css/2.472283b6.chunk.css",
+    "static/js/2.8d65ca96.chunk.js": "/test_login/static/js/2.8d65ca96.chunk.js",
+    "static/js/2.8d65ca96.chunk.js.map": "/test_login/static/js/2.8d65ca96.chunk.js.map",
+    "index.html": "/test_login/index.html",
+    "precache-manifest.a6bbd5a21826fb7d8cc2ca02f20b1eaf.js": "/test_login/precache-manifest.a6bbd5a21826fb7d8cc2ca02f20b1eaf.js",
+    "service-worker.js": "/test_login/service-worker.js",
+    "static/css/2.472283b6.chunk.css.map": "/test_login/static/css/2.472283b6.chunk.css.map",
+    "static/css/main.531bab08.chunk.css.map": "/test_login/static/css/main.531bab08.chunk.css.map",
+    "static/js/2.8d65ca96.chunk.js.LICENSE": "/test_login/static/js/2.8d65ca96.chunk.js.LICENSE",
+    "static/media/semantic.min.css": "/test_login/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.281a79f6.js",
+    "static/css/2.472283b6.chunk.css",
+    "static/js/2.8d65ca96.chunk.js",
+    "static/css/main.531bab08.chunk.css",
+    "static/js/main.a5a14de6.chunk.js"
+  ]
+}
